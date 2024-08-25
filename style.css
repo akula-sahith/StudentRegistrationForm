@@ -1,0 +1,46 @@
+.FORM {
+    width: 300px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+body {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.heading {
+    width: 400px;
+    margin: auto;
+}
+
+.main {
+    width: 500px;
+    border: solid;
+    border-width: 5px;
+    border-color: black;
+}
+.heading1 {
+  color: blue;
+}
+#female{
+   cursor: pointer;
+}
+#male{
+  cursor: pointer;
+}
+.SUBMIT{
+  background-color: red;
+  color: white;
+  font-size: 15px;
+  border: none;
+  border-radius: 5px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  cursor: pointer;
+}
+.DEPT{
+  /* height: 50px; */
+}

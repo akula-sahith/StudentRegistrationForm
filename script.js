@@ -1,0 +1,1 @@
+alert("Deatails were submitted successfully")

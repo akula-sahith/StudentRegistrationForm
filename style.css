@@ -40,7 +40,13 @@ body {
   padding-top: 15px;
   padding-bottom: 15px;
   cursor: pointer;
+  width: 90px;
+  transition-duration: 10ms;
 }
+.SUBMIT:hover{
+  background-color: green;
+}
+
 .DEPT{
   /* height: 50px; */
 }
